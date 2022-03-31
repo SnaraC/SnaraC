@@ -3,7 +3,7 @@ About Me 👇
       🎓 I am a junior at University of Washington Bothell majoring in Computer Science & Software Engineering.
       👨 Pronouns: he/him/his
       📫 How to reach me -> schou99@uw.edu
-      [![alt text](http://i.imgur.com/P3YfQoD.png)](www.facebook.com/sovannara.chou)
+      <a href="http://www.facebook.com/sovannara.chou" target="_blank"> <img src="http://i.imgur.com/P3YfQoD.png" width="240" height"180"/></a>
       💬 Ask me about anything.
       
       
